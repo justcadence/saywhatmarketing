@@ -9133,6 +9133,9 @@ a.skip-link {
 .gallery-caption {
   display: block; }
 
+.navbar {
+  transition: all 0.4s ease; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
